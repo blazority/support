@@ -7,6 +7,8 @@
 ![Blazor Icon](https://img.stackshare.io/service/8436/BrandBlazor_nohalo_1000x.png) ![Clarity UI Icon](https://img.stackshare.io/service/7683/PLsb-YNy_400x400.jpg)
 
 [![Gitter](https://badges.gitter.im/blazority/support.svg)](https://gitter.im/blazority/support?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+![GitHub](https://img.shields.io/github/license/karan-kang/blazority-public)
+
 
 Blazority is a Blazor component library based on [Clarity UI](https://clarity.design/). Our aim is to provide components that are easy to use, and built as purely as possibly using Blazor, with little to no JavaScript (less than 1KB). This libary is compatiable with both Blazor Server and Web Assembly modes.
 
