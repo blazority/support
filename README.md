@@ -8,6 +8,7 @@
 
 [![Gitter](https://badges.gitter.im/blazority/support.svg)](https://gitter.im/blazority/support?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ![GitHub](https://img.shields.io/github/license/karan-kang/blazority-public)
+![Nuget](https://img.shields.io/nuget/v/blazority)
 ![Nuget](https://img.shields.io/nuget/dt/blazority)
 
 
