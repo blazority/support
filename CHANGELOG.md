@@ -1,3 +1,11 @@
+### 0.6.1
+##### Updates
+- Datagrid: Auto inject column name (built using Title propery) as classes to cells for identification purposes
+- Dropdown: Adding on click handler for ease of use
+
+##### Bug Fixes
+- Datagrid: Inline combox and radiobox control do not receive click event ([S#3](https://github.com/blazority/support/issues/#3))
+
 ### 0.6.0
 ##### Features
 - Framework: Support for .NET 5 framework ([#103](https://github.com/karan-kang/blazority/issues/103))
