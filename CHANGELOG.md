@@ -1,3 +1,8 @@
+### 0.6.2
+##### Bug Fixes
+- Datagrid: Expandable row toggle affects the row selection state ([#109](https://github.com/karan-kang/blazority/issues/109))
+- Datagrid: Inline combox and radiobox control do not receive click event (Refactored for stability) ([S#3](https://github.com/blazority/support/issues/#3))
+
 ### 0.6.1
 ##### Updates
 - Datagrid: Auto inject column name (built using Title propery) as classes to cells for identification purposes
