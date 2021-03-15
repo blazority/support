@@ -1,3 +1,12 @@
+### 0.6.3
+##### Bug Fixes
+- Combobox: Allow for combobox filtered async loading ([#115](https://github.com/karan-kang/blazority/issues/115))
+- Date picker: Default min/max values is not getting set automatically ([#112](https://github.com/karan-kang/blazority/issues/112))
+- Number Input: Spinner buttons not updating bound value ([#110](https://github.com/karan-kang/blazority/issues/110))
+
+##### Misc
+- Improve docs for majority of components by better organizing demos and providing seperate API view
+
 ### 0.6.2
 ##### Bug Fixes
 - Datagrid: Expandable row toggle affects the row selection state ([#109](https://github.com/karan-kang/blazority/issues/109))
