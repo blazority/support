@@ -1,3 +1,12 @@
+### 0.7.0
+##### Features
+- Signpost: Adding new signpost control ([#101](https://github.com/karan-kang/blazority/issues/101))
+
+##### Bug Fixes
+- Refactoring and stability improvements to overlay behavior for Dropdown, Comboxbox, Calendar and other popover based controls
+- Datagrid: Incorrect colspan causes issue with expandable row details in fixed layout mode ([S#4](https://github.com/blazority/support/issues/#4))
+
+
 ### 0.6.3
 ##### Bug Fixes
 - Combobox: Allow for combobox filtered async loading ([#115](https://github.com/karan-kang/blazority/issues/115))
