@@ -1,3 +1,12 @@
+### 0.7.2
+##### Updates
+- Combobox: Ability to auto-select input text on focus ([Combobox](/combobox)) ([#125](https://github.com/karan-kang/blazority/issues/125))
+
+##### Bug Fixes
+- Combobox: Infinite loop when selecting option using SelectedValue & SelectedValueChanged ([#123](https://github.com/karan-kang/blazority/issues/123))
+- Combobox: Text not updating properly when using custom 'changed' behaviour ([#122](https://github.com/karan-kang/blazority/issues/122))
+- Datepicker & Calendar: Fixing day headers not getting localized ([#120](https://github.com/karan-kang/blazority/issues/120))
+
 ### 0.7.1
 ##### Features
 - Signpost: Adding new signpost control [Signpost](/signpost) ([#101](https://github.com/karan-kang/blazority/issues/101))
