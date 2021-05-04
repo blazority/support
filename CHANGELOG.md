@@ -1,3 +1,6 @@
+### 0.7.4
+- Relaxed versioning requirement for Microsoft.AspNetCore.Components and Microsoft.AspNetCore.Components.Web
+
 ### 0.7.3
 ##### Features
 - Datagrid: Adding resizable columns ([Datagrid](/datagrid)) ([#101](https://github.com/karan-kang/blazority/issues/101))
