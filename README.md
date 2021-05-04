@@ -4,7 +4,7 @@
 
 -----
 
-![Blazor Icon](https://img.stackshare.io/service/8436/BrandBlazor_nohalo_1000x.png) ![Clarity UI Icon](https://img.stackshare.io/service/7683/PLsb-YNy_400x400.jpg)
+![Blazor Icon](https://raw.githubusercontent.com/blazority/support/main/assets/blazor_200x200.png) ![Clarity UI Icon](https://raw.githubusercontent.com/blazority/support/main/assets/clarity_200x200.png)
 
 [![Gitter](https://badges.gitter.im/blazority/support.svg)](https://gitter.im/blazority/support?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ![GitHub](https://img.shields.io/github/license/karan-kang/blazority-public)
