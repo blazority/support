@@ -1,3 +1,15 @@
+### 0.7.3
+##### Features
+- Datagrid: Adding resizable columns ([Datagrid](/datagrid)) ([#101](https://github.com/karan-kang/blazority/issues/101))
+- Tabs: Programmatically set active tab ([Tabs](/tabs)) ([S#11](https://github.com/blazority/support/issues/#11))
+
+##### Bug Fixes
+- Datagrid: Dynamic columns are still rendered even when removed ([S#9](https://github.com/blazority/support/issues/#9))
+- Datagrid: Header scrolls up in fixed mode with inline filter  ([S#8](https://github.com/blazority/support/issues/#8))
+- Datagrid: Select All checkbox remains selected when user uncheck individual rows ([S#7](https://github.com/blazority/support/issues/#7))
+- Datagrid: Placeholder is not rendered when datagrid has grouping ([S#6](https://github.com/blazority/support/issues/#6))
+- Combobox: Bind text does not work in non edit mode ([#133](https://github.com/karan-kang/blazority/issues/133))
+
 ### 0.7.2
 ##### Updates
 - Combobox: Ability to auto-select input text on focus ([Combobox](/combobox)) ([#125](https://github.com/karan-kang/blazority/issues/125))
