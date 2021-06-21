@@ -1,3 +1,13 @@
+### 0.7.5
+##### Features
+- Alert: Adding ability to define actions for alerts ([Alert](/alerts)) ([#142](https://github.com/karan-kang/blazority/issues/142))
+- Mix: Adding automatic title feature for combobox, and other form field controls ([#144](https://github.com/karan-kang/blazority/issues/144))
+
+##### Bug Fixes
+- Datagrid: Filter values are not cleared when dynamic columns are used([S#12](https://github.com/blazority/support/issues/12))
+- Combobox: Multi combobox has weird backspace behaviour ([#139](https://github.com/karan-kang/blazority/issues/139))
+- Combobox: Stability improvements around selection value use-cases
+
 ### 0.7.4
 - Relaxed versioning requirement for Microsoft.AspNetCore.Components and Microsoft.AspNetCore.Components.Web
 
