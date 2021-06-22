@@ -1,3 +1,9 @@
+### 0.7.6
+##### Bug Fixes
+- Datagrid: Regression for Filter values are not cleared when dynamic columns are used with hidden columns ([S#12](https://github.com/blazority/support/issues/12))
+- Datagrid: Lowered z-index for column resizer to avoid being visible during modal overlays
+- Datagrid: Column name CSS is not injected after first render
+
 ### 0.7.5
 ##### Features
 - Alert: Adding ability to define actions for alerts ([Alert](/alerts)) ([#142](https://github.com/karan-kang/blazority/issues/142))
