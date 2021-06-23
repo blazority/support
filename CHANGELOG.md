@@ -1,3 +1,9 @@
+### 0.7.7
+##### Updates
+- Datagrid: Support for setting the Order for DatagridColumn
+- Tree: Support for setting the CanSelectBy property for TreeDefinition
+
+
 ### 0.7.6
 ##### Bug Fixes
 - Datagrid: Regression for Filter values are not cleared when dynamic columns are used with hidden columns ([S#12](https://github.com/blazority/support/issues/12))
