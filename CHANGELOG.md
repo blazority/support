@@ -1,3 +1,20 @@
+### 0.8.0
+##### Features
+- Datagrid: Added server side pagination, sorting, filtering ([Datagrid](/datagrid/server-side)) ([#4](https://github.com/karan-kang/blazority/issues/4))
+- Timeline: Added new timeline component ([Timeline](/timeline)) ([S#14](https://github.com/blazority/support/issues/14))
+- Toggle Switch: Added new toggle switch component ([Toggle](/toggle)) ([S#13](https://github.com/blazority/support/issues/13))
+
+##### Updates
+- Datagrid: Ability to set initial value of Column filter via Filter parameter ([Datagrid](/datagrid)) ([#151](https://github.com/karan-kang/blazority/issues/151))
+- Updated Clarity and Clarity Icons to [v4.0.15](https://github.com/vmware/clarity/commits/v4.0.15)
+
+##### Bug Fixes
+- Datagrid: Regression for 'select all' checkbox remains selected when user uncheck individual rows ([S#7](https://github.com/blazority/support/issues/7))
+
+##### Breaking Changes:
+- Datagrid: SelectedItems property now require collection of type Blazority.Shared.ObservableSet<T> instead of HashSet<T> for proper change tracking within collection.
+
+
 ### 0.7.7
 ##### Updates
 - Datagrid: Support for setting the Order for DatagridColumn
