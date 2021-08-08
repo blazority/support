@@ -17,14 +17,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
 **Environment**
- - OS: [e.g. Windows 10, iOS]
- - Browser [e.g. chrome, safari]
  - Blazority Version [e.g. 22]
  - .NET Core Version [e.g. 3.1]
+ - Browser [e.g. chrome, safari]
 
-**Additional context**
-Add any other context about the problem here.
+
