@@ -1,3 +1,19 @@
+### 0.8.1
+##### Features
+- Added new [Icon](/icon) component to use Clarity Icons 
+- Added new [Application Layout](/app-layout) component for use as main application container
+- Added new [Sidenav](/sidenav) and [Vertical Nav](/verticalnav) components
+- Added new [Header](/header) component
+
+##### Updates
+- Datagrid: Added ability to conditionally expand or collapse rows ([Datagrid](/datagrid/expandable-rows) ([S#17](https://github.com/blazority/support/issues/17))
+- [Calendar](/calendar) & [DatePicker](/datepicker): Added ability to select available dates ([#160](https://github.com/karan-kang/blazority/issues/160))
+
+##### Bug Fixes
+- Datagrid: Unable to unselect all after select all ([S#16](https://github.com/blazority/support/issues/16))
+- Calender: Years were not disabling when out of min and max range ([#159](https://github.com/karan-kang/blazority/issues/159))
+
+
 ### 0.8.0
 ##### Features
 - Datagrid: Added server side pagination, sorting, filtering ([Datagrid](/datagrid/server-side)) ([#4](https://github.com/karan-kang/blazority/issues/4))
