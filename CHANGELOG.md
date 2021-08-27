@@ -1,3 +1,8 @@
+### 0.8.2
+##### Bug Fixes
+- Datagrid: Throws NullReferenceException if SelectedItems is null during initialization ([S#18](https://github.com/blazority/support/issues/18))
+
+
 ### 0.8.1
 ##### Features
 - Added new [Icon](/icon) component to use Clarity Icons 
