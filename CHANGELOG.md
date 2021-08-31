@@ -1,3 +1,18 @@
+### 0.9.0
+##### Features
+- Added new [Timepicker](/timepicker) component 
+- Added new [DateTimePicker](/datetimepicker) component
+- Added new [DateRange](/daterange) component
+
+##### Bug Fixes
+- Datagrid: Row detail doesn't span last column when using row selection without controls ([S#19](https://github.com/blazority/support/issues/19))
+- Combobox: Dropdown does not open when placed inside a Datagrid ([S#20](https://github.com/blazority/support/issues/20))
+- Alert: Unable to customize icon ([S#22](https://github.com/blazority/support/issues/22))
+- Datepicker: Incorrect popup calendar background when placed inside a Datagrid ([S#21](https://github.com/blazority/support/issues/21))
+
+##### Updates
+- Updated Clarity and Clarity Icons to [v5.4.1](https://github.com/vmware/clarity/commits/v5.4.1)
+
 ### 0.8.2
 ##### Bug Fixes
 - Datagrid: Throws NullReferenceException if SelectedItems is null during initialization ([S#18](https://github.com/blazority/support/issues/18))
