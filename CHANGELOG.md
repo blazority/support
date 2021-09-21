@@ -1,5 +1,5 @@
 ### 0.9.1
-### Updates
+##### Updates
 - Added dropdown Position parameter to adding position element to DatePicker, DateRangePicker, DateTimePicker, TimePicker ([S#24](https://github.com/blazority/support/issues/24))
 - Added LabelCol and ControlCol parameter to Checkbox, Combobox, DatePicker, DateRangePicker, Input, Number, Password, Text, TimePicker to configure responsive breakpoints ([S#23](https://github.com/blazority/support/issues/23))
 
