@@ -1,3 +1,8 @@
+### 0.9.2
+### Updates
+- Added dropdown Position parameter to combobox ([S#28](https://github.com/blazority/support/issues/28))
+
+
 ### 0.9.1
 ##### Updates
 - Added dropdown Position parameter to adding position element to DatePicker, DateRangePicker, DateTimePicker, TimePicker ([S#24](https://github.com/blazority/support/issues/24))
