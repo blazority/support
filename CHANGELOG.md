@@ -1,3 +1,15 @@
+### 0.9.3
+##### Updates
+- Checkbox: Added suport for templated label ([S#31](https://github.com/blazority/support/issues/32))
+- Radio: Added support for templated label ([S#31](https://github.com/blazority/support/issues/32))
+
+##### Issues
+- Datagrid: Filter input text is not cleared on UI ([S#31](https://github.com/blazority/support/issues/31))
+- Datepicker: Added tooltip for input value to date, range, and time picker usage ([S#30](https://github.com/blazority/support/issues/30))
+
+##### Misc
+- Adding Icon search and list page to easily view all available shapes [Shapes](/icon)]
+
 ### 0.9.2
 ### Updates
 - Added dropdown Position parameter to combobox ([S#28](https://github.com/blazority/support/issues/28))
