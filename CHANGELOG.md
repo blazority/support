@@ -1,3 +1,9 @@
+### 0.9.4
+##### Issues
+- Dropdown: Added ability to disable the drop down trigger ([S#31](https://github.com/blazority/support/issues/33))
+- Tab: Added ability to disable tabs  ([#188](https://github.com/karan-kang/blazority/issues/188))
+
+
 ### 0.9.3
 ##### Updates
 - Checkbox: Added suport for templated label ([S#31](https://github.com/blazority/support/issues/32))
