@@ -1,3 +1,11 @@
+### 0.9.5
+##### Updates:
+- Sidenav: Support for collapsible nav groups ([S#34](https://github.com/blazority/support/issues/34))
+
+##### Issues
+- Datagrid: Column selection popup cutoff and cannot be closed ([S#36](https://github.com/blazority/support/issues/36))
+
+
 ### 0.9.4
 ##### Issues
 - Dropdown: Added ability to disable the drop down trigger ([S#31](https://github.com/blazority/support/issues/33))
