@@ -1,3 +1,12 @@
+### 0.9.6
+##### Updates:
+- Datagrid: Added support for row actions (context menu) ([S#38](https://github.com/blazority/support/issues/38))
+- Datagrid: Ability to get raw exception via "QueryError" EventCallback in server side mode
+- Alert: Added "OnClose" EventCallback to handle the closing of an Alert
+
+##### Issues
+- Datagrid: Server side sorting should not do auto column sorting
+
 ### 0.9.5
 ##### Updates:
 - Sidenav: Support for collapsible nav groups ([S#34](https://github.com/blazority/support/issues/34))
