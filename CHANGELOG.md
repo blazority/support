@@ -1,4 +1,4 @@
-### 0.9.7
+### 0.9.8
 ##### Issues
 - Combobox: Position property is not respected on first time ([S#41](https://github.com/blazority/support/issues/41))
 
