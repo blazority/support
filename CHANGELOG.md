@@ -1,3 +1,7 @@
+### 0.9.7
+##### Issues
+- Combobox: Position property is not respected on first time ([S#41](https://github.com/blazority/support/issues/41))
+
 ### 0.9.6
 ##### Updates:
 - Datagrid: Added support for row actions (context menu) ([S#38](https://github.com/blazority/support/issues/38))
