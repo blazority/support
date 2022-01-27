@@ -1,3 +1,14 @@
+### 0.10.0
+##### Features
+- Added new [Grid](/grid) component for flexbox and responsive breakpoints ([S#48](https://github.com/blazority/support/issues/48))
+- Added new [Stepper](/stepper) component ([S#49](https://github.com/blazority/support/issues/49))
+
+##### Updates:
+- Datagrid: Added ability to apply filter changes immediately via FilterImmediately property on DatagridColumn ([S#43](https://github.com/blazority/support/issues/43))
+
+##### Issues
+- Label: Fixed an issue where OnClick was not working with Label controls
+
 ### 0.9.8
 ##### Issues
 - Combobox: Position property is not respected on first time ([S#41](https://github.com/blazority/support/issues/41))
