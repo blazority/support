@@ -1,3 +1,23 @@
+### 0.11.0
+
+##### Features
+- Added new [Grid](/grid) component for flexbox and responsive breakpoints ([S#48](https://github.com/blazority/support/issues/48))
+- Added new [Stepper](/stepper) component ([S#49](https://github.com/blazority/support/issues/49))
+- Added new [Tooltip](/tooltip) component ([#213](https://github.com/karan-kang/blazority/issues/213))
+
+##### Updates:
+- Timeline: Added ability to have clickable state action ([S#64](https://github.com/blazority/support/issues/64))
+- Combobox & Select: Added grouping capability to Combobox and Select controls ([#212](https://github.com/karan-kang/blazority/issues/212))
+- Treeviw: Added ability to refresh async loaded children ([#205](https://github.com/karan-kang/blazority/issues/205))
+- Datagrid: Customize the placeholder when loading using QueryBy  ([S#42](https://github.com/blazority/support/issues/42))
+
+##### Issues
+- Datagrid: GroupBy does not work in combination with QueryBy ([S#60](https://github.com/blazority/support/issues/60))
+- Datagrid: No way to clear sort on datagrid ([#206](https://github.com/karan-kang/blazority/issues/206))
+- Datagrid: Deselect all button does not deselect the rows when some are disabled for selection ([#212](https://github.com/karan-kang/blazority/issues/212))
+- Datagrid: No way to reset filter value ([#207](https://github.com/karan-kang/blazority/issues/207))
+- Accordion: Fixing accordion so only one panel is shown at a time ([#222](https://github.com/karan-kang/blazority/issues/222))
+
 ### 0.10.0
 ##### Features
 - Added new [Grid](/grid) component for flexbox and responsive breakpoints ([S#48](https://github.com/blazority/support/issues/48))
