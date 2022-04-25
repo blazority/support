@@ -18,6 +18,9 @@
 - Datagrid: No way to reset filter value ([#207](https://github.com/karan-kang/blazority/issues/207))
 - Accordion: Fixing accordion so only one panel is shown at a time ([#222](https://github.com/karan-kang/blazority/issues/222))
 
+##### Breaking Changes:
+- Datagrid: DatagridColumn's FiterMatch property has been renamed to FilterMatch to fix typo ([S#68](https://github.com/blazority/support/issues/68))
+
 ### 0.10.0
 ##### Features
 - Added new [Grid](/grid) component for flexbox and responsive breakpoints ([S#48](https://github.com/blazority/support/issues/48))
