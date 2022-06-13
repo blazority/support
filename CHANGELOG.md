@@ -1,7 +1,7 @@
 ### 0.12.1
 
 ##### Issues
-- Fixes icons not getting included in published Nuget package. ([S#94](https://github.com/blazority/support/issues/94))
+- Fixes icons not getting included in published v0.12.0 Nuget package. ([S#94](https://github.com/blazority/support/issues/94))
 
 
 ### 0.12.0
