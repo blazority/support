@@ -1,3 +1,19 @@
+### 0.12.0
+
+##### Updates:
+- DateTimePicker: Added ability to show Confirmation buttons, now defaults to True ([S#87](https://github.com/blazority/support/issues/87))
+- Timepicker: Ability to use up or down button continuously in rolling mode ([S#88](https://github.com/blazority/support/issues/88))
+- Combobox: Ability to have more control for selected items ([S#91](https://github.com/blazority/support/issues/91))
+- Datagrid: Added ability to customize group header title ([S#92](https://github.com/blazority/support/issues/92))
+
+##### Issues
+- Header: Enhance styling when Dropdown is used within Header ([S#55](https://github.com/blazority/support/issues/55))
+- Combobox: Selected Item not visible when using arrow keys ([S#89](https://github.com/blazority/support/issues/89))
+- Datagrid: Filter overlay hides under table header in fixed header or fixed all mode ([S#69](https://github.com/blazority/support/issues/69))
+- Datagrid: Row action popup was not auto closing after click ([S#67](https://github.com/blazority/support/issues/67))
+- Alerts: Alert count becomes out of sync when using remove programmatically ([S#84](https://github.com/blazority/support/issues/84))
+
+
 ### 0.11.0
 
 ##### Features
