@@ -1,3 +1,8 @@
+### 0.12.2
+
+##### Issues
+- Datagrid: Checkbox state for hidden columns goes out of sync. ([S#96](https://github.com/blazority/support/issues/96))
+
 ### 0.12.1
 
 ##### Issues
