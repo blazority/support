@@ -1,3 +1,8 @@
+### 0.12.3
+
+##### Issues
+Datagrid: Extra whitespace when using hidden columns and fixed table layout ([S#97](https://github.com/blazority/support/issues/97))
+
 ### 0.12.2
 
 ##### Issues
