@@ -1,3 +1,20 @@
+### 1.0.0
+
+##### Features
+- Added support for .NET 6.0 ([S#81](https://github.com/blazority/support/issues/81))
+
+##### Updates
+- Datagrid: Added support for row refresh when using server side datagrid ([S#104](https://github.com/blazority/support/issues/104))
+- Datagrid: Added support for expand row detail by default ([S#105](https://github.com/blazority/support/issues/105))
+- Timepicker: Updates to style, made time inputs and switching arrows consistent
+
+##### Bug Fixes
+- App won't start after Blazority upgrade due to Alerts changes  ([S#103](https://github.com/blazority/support/issues/103)
+- DateTimePicker 'OK' button is enabled even when date is not selected  [S#101](https://github.com/blazority/support/issues/101)
+
+##### Breaking Changes:
+- Dropped support for .NET Standard 2.1 framework
+
 ### 0.12.3
 
 ##### Issues
