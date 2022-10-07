@@ -1,3 +1,7 @@
+### 1.0.1
+##### Updates
+- Datagrid: Added support for row refresh when using server side datagrid ([S#104](https://github.com/blazority/support/issues/104))
+
 ### 1.0.0
 
 ##### Features
