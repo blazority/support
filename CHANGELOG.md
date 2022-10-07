@@ -8,7 +8,6 @@
 - Added support for .NET 6.0 ([S#81](https://github.com/blazority/support/issues/81))
 
 ##### Updates
-- Datagrid: Added support for row refresh when using server side datagrid ([S#104](https://github.com/blazority/support/issues/104))
 - Datagrid: Added support for expand row detail by default ([S#105](https://github.com/blazority/support/issues/105))
 - Timepicker: Updates to style, made time inputs and switching arrows consistent
 
