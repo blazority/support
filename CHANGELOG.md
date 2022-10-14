@@ -1,3 +1,7 @@
+### 1.0.2
+##### Bug Fixes
+Datagrid: Patching any server-side row other than first row throws exception ([S#110](https://github.com/blazority/support/issues/110))
+
 ### 1.0.1
 ##### Updates
 - Datagrid: Added support for row refresh when using server side datagrid ([S#104](https://github.com/blazority/support/issues/104))
