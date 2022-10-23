@@ -1,5 +1,5 @@
 ### 1.0.3
-##### Features
+##### Updates
 - Calendar based controls (Calendar, RangeCalender, Datepicker, Datetimepicker, DateRangepicker) now support supplying a custom class for a day ([S#112](https://github.com/blazority/support/issues/112))
 
 ##### Bug Fixes
