@@ -1,3 +1,12 @@
+### 1.0.3
+##### Features
+- Calendar based controls (Calendar, RangeCalender, Datepicker, Datetimepicker, DateRangepicker) now support supplying a custom class for a day ([S#112](https://github.com/blazority/support/issues/112))
+
+##### Bug Fixes
+- Dropdown: Position does not work correctly ([S#113](https://github.com/blazority/support/issues/113))
+- Datagrid: Inline filter scrolls on top of column header when header height changes ([S#115](https://github.com/blazority/support/issues/115))
+- Datagrid: Patching server-side row doesn't maintain/update selection ([S#116](https://github.com/blazority/support/issues/116))
+
 ### 1.0.2
 ##### Bug Fixes
 Datagrid: Patching any server-side row other than first row throws exception ([S#110](https://github.com/blazority/support/issues/110))
