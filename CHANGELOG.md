@@ -1,3 +1,11 @@
+### 1.0.4
+#### Updates
+- Datagrid: Added new event callback FilterChanged for filter value change use-cases
+
+#### Bug fixes
+- Missing source maps for dependencies from Nuget package ([S#119](https://github.com/blazority/support/issues/119))
+- Tree View Checkbox - Ancestor nodes are not evaluating properly  ([S#114](https://github.com/blazority/support/issues/114))
+
 ### 1.0.3
 ##### Updates
 - Calendar based controls (Calendar, RangeCalender, Datepicker, Datetimepicker, DateRangepicker) now support supplying a custom class for a day ([S#112](https://github.com/blazority/support/issues/112))
