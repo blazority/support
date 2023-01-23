@@ -1,3 +1,20 @@
+### 1.1.0
+
+##### Features
+- Added new [File Input](/file) control File Input  ([S#56](https://github.com/blazority/support/issues/56))
+
+#### Updates
+- Input Controls: Added new property ToggleButtonTabIndex to control tan index of Toggle button ([S#120](https://github.com/blazority/support/issues/120))
+- Datagrid: Added new extension methods (First, Next, Last, Page(pageNumber)) to change current page programmatically ([S#121](https://github.com/blazority/support/issues/121))
+- Datagrid: Added support for async row detail load on expand  ([S#123](https://github.com/blazority/support/issues/123))
+- Icon: Added support for warning badge modifier ([S#122](https://github.com/blazority/support/issues/122))
+- Updated Clarity dependency to [v13.11.2](https://github.com/vmware-clarity/ng-clarity/releases?q=v13.11.2&expanded=true)
+
+#### Bug fixes
+- Combobox: Async loading not working ([S#124](https://github.com/blazority/support/issues/124))
+- Grid - Does not support clr-col-auto layout  ([S#128](https://github.com/blazority/support/issues/128))
+
+
 ### 1.0.4
 #### Updates
 - Datagrid: Added new event callback FilterChanged for filter value change use-cases
