@@ -1,3 +1,12 @@
+### 1.1.1
+
+#### Updates
+- Datagrid: Added ability to set the initial page number for both client and server-side modes ([S#131](https://github.com/blazority/support/issues/131))
+
+#### Bug fixes
+- Datagrid: Fixed an issue where skip result during server-side mode was not updating page number ([S#131](https://github.com/blazority/support/issues/131))
+
+
 ### 1.1.0
 
 ##### Features
