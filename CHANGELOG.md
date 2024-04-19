@@ -1,3 +1,23 @@
+### 2.0.0
+
+#### Bug fixes
+- Date Picker: Fixing error icon not showing in correct location ([S#140](https://github.com/blazority/support/issues/140))
+- Date Time Picker: Fixing error icon not showing in correct location ([S#140](https://github.com/blazority/support/issues/140))
+
+#### Updates
+- Framework: Added support for .NET 7.0 and .NET 8.0 ([S#141](https://github.com/blazority/support/issues/141))
+- Framework: Upgraded to Clarity UI v16 and Clarity Icons v13
+- Theme updates to support integration of Clarity light and dark theme via a single file
+- Accordion: Ability to independently control open & close operation ([S#134](https://github.com/blazority/support/issues/134))
+- Button: Added parameter for stop propagation ([S#136](https://github.com/blazority/support/issues/136))
+
+##### Breaking Changes:
+- Dropped support for .NET 5 framework as it is End of Life.
+- Clarity light and dark theme are not shipped as single file.
+- Developers must now choose either light or dark theme by setting cds-theme="light" or cds-theme="dark" attribute on body element.
+- Removed obselete assets: blazority-dark.css, blazority-dark.min.css, clr-ui-dark.min.css
+
+
 ### 1.1.1
 
 #### Updates
