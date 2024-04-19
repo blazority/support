@@ -13,7 +13,7 @@
 
 ##### Breaking Changes:
 - Dropped support for .NET 5 framework as it is End of Life.
-- Clarity light and dark theme are not shipped as single file.
+- Clarity light and dark theme are now shipped as single file.
 - Developers must now choose either light or dark theme by setting cds-theme="light" or cds-theme="dark" attribute on body element.
 - Removed obselete assets: blazority-dark.css, blazority-dark.min.css, clr-ui-dark.min.css
 
