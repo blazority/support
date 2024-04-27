@@ -1,3 +1,10 @@
+### 2.0.1
+
+#### Bug fixes
+- Sidenav: Fixing broken styling due to deprecation in Clarity
+- Alert: Fixing broken multi alert pager
+- Datagrid: Group header hover styling incorrect in dark mode
+
 ### 2.0.0
 
 #### Bug fixes
