@@ -15,8 +15,8 @@
 Blazority is a Blazor component library based on [Clarity UI](https://clarity.design/). Our aim is to provide components that are easy to use, and built as purely as possibly using Blazor, with little to no JavaScript (less than 1KB). This libary is compatiable with both Blazor Server and Web Assembly modes.
 
 # Demos
-Visit [https://blazority.com/](https://blazority.com/) for most up-to-date demos and usage docs.
-Visit [Blazority REPL](https://replit.com/@Karankang007/Blazority-REPL] to experiment, test drive, or create reproducible environment for issue reports.
+- Visit [https://blazority.com/](https://blazority.com/) for most up-to-date demos and usage docs.
+- Visit [Blazority REPL](https://replit.com/@Karankang007/Blazority-REPL) to experiment, test drive, or create reproducible environment for issue reports.
 
 # Getting Started
 
